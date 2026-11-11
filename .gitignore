@@ -1,0 +1,12 @@
+.venv/
+.dbos/
+logs/
+__pycache__/
+.env
+.voices/
+.env.*
+!.env.example
+.pytest_cache/
+.DS_Store
+*.sqlite
+*.db
